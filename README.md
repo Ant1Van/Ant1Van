@@ -14,19 +14,22 @@ Full-stack developer focused on C#, JavaScript, and React. Building interactive 
 Interactive photo album with audio.  
 **Tech:** HTML, CSS, JavaScript, Audio API  
 [![Live](https://img.shields.io/badge/Live-00D084?style=for-the-badge&logo=netlify&logoColor=white)](https://memories-forever-2025.netlify.app/)  
-Score: 100/100
+⭐ **Score: 100/100**
 
-#### Database Management System
-DB management system.  
+#### 🗄️ Database Management System
+Full-stack database management application  
 **Tech:** C#, WinForms, PHP, MySQL, Bootstrap  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ant1Van/csharp-db-app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ant1Van/php-interface)  
+[![C# App](https://img.shields.io/badge/C%23_App-512BD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ant1Van/csharp-db-app)
+[![PHP Interface](https://img.shields.io/badge/PHP_Interface-777BB4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ant1Van/php-interface)
 
 #### Portfolio Website
 My personal portfolio site.  
 **Tech:** HTML5, CSS3, JavaScript, Flexbox, CSS Grid, Netlify, Git  
 [![Live](https://img.shields.io/badge/Live-00D084?style=for-the-badge&logo=netlify&logoColor=white)](https://ant1van-portfolio.netlify.app/)  
-Score: 95/100
+⭐ **Score: 95/100**
+
+### 📊 GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ant1Van&show_icons=true&theme=radical)](https://github.com/Ant1Van)
 
 ### 📫 Contact
 - 🌐 [Portfolio](https://ant1van-portfolio.netlify.app/)
