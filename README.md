@@ -1,7 +1,3 @@
-# Ivan Antipov
-
-![Header Image](https://via.placeholder.com/1200x300/0f111a/36d399?text=Full-Stack+Developer)
-
 ## 👋 Hi! I'm Ivan Antipov
 
 Full-stack developer focused on C#, JavaScript, and React. Building interactive apps and web projects.
