@@ -28,9 +28,6 @@ My personal portfolio site.
 [![Live](https://img.shields.io/badge/Live-00D084?style=for-the-badge&logo=netlify&logoColor=white)](https://ant1van.github.io/portfolio/)  
 ⭐ **Score: 95/100**
 
-### 📊 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ant1Van&show_icons=true&theme=radical)](https://github.com/Ant1Van)
-
 ### 📫 Contact
 - 🌐 [Portfolio](https://ant1van.github.io/portfolio/)
 - 📧 antipow.iwan2018@gmail.com
