@@ -8,7 +8,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ant1van.github.io-AD3304?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ant1van.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ant1van.site-AD3304?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ant1van.site)
 [![Uchidesk](https://img.shields.io/badge/Uchidesk-uchidesk.com-1F2937?style=for-the-badge&logo=pwa&logoColor=white)](https://uchidesk.com)
 [![Profile views](https://komarev.com/ghpvc/?username=Ant1Van&label=Profile+views&color=AD3304&style=for-the-badge)](https://github.com/Ant1Van)
 
@@ -110,18 +110,15 @@ I'm a full-stack developer. I ship real products: a live SaaS-style platform, a 
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ant1Van&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F78166&icon_color=AD3304&text_color=C9D1D9&count_private=true" />
-  <img alt="Ant1Van GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ant1Van&show_icons=true&hide_border=true&title_color=AD3304&icon_color=AD3304&count_private=true" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant1Van&layout=compact&hide_border=true&bg_color=0D1117&title_color=F78166&text_color=C9D1D9" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ant1Van&layout=compact&hide_border=true&title_color=AD3304" height="165" />
-</picture>
+[![Followers](https://img.shields.io/github/followers/Ant1Van?style=for-the-badge&logo=github&color=AD3304&labelColor=181717)](https://github.com/Ant1Van?tab=followers)
+[![SkillHub stars](https://img.shields.io/github/stars/Ant1Van/SkillHub?style=for-the-badge&logo=github&label=SkillHub%20stars&color=AD3304&labelColor=181717)](https://github.com/Ant1Van/SkillHub/stargazers)
+[![BetterFuelSystem stars](https://img.shields.io/github/stars/Ant1Van/BetterFuelSystem?style=for-the-badge&logo=github&label=BetterFuelSystem%20stars&color=AD3304&labelColor=181717)](https://github.com/Ant1Van/BetterFuelSystem/stargazers)
+<br />
+[![SkillHub last commit](https://img.shields.io/github/last-commit/Ant1Van/SkillHub?style=flat-square&label=SkillHub%20last%20commit&color=555)](https://github.com/Ant1Van/SkillHub/commits)
 
 </div>
 
@@ -131,7 +128,7 @@ I'm a full-stack developer. I ship real products: a live SaaS-style platform, a 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-AD3304?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ant1van.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AD3304?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ant1van.site)
 [![GitHub](https://img.shields.io/badge/GitHub-Ant1Van-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ant1Van)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" alt="" width="100%" />
